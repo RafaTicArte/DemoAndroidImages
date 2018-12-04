@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoAndroidImages</string>
+    <string name="action_settings">Settings</string>
+    <string name="from_gallery">Cargar imagen desde la galería</string>
+    <string name="from_camera">Cargar imagen desde la cámara</string>
+    <string name="choose_picture">Elige una imagen</string>
+    <string name="error_files">Error creando archivos</string>
+</resources>
